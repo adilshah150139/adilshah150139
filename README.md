@@ -70,7 +70,7 @@ I'm open to:
 
 ## 📊 GitHub Stats
 
-![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adilshah150139&show_icons=true&theme=radical)
+[![GitHub](https://img.shields.io/badge/GitHub-adilshah150139-181717?style=flat&logo=github)](https://github.com/adilshah150139)
 
 ---
 
